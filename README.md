@@ -15,5 +15,7 @@ Instruction
 1. ssh user@server 'sh' < pleskinstall.sh
 2. ssh user@server
 3. screen -R
+4. Continue install
+5. https://localhost:8443 to go to plesk panel.
 
 ENJOY!
